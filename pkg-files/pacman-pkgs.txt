@@ -65,6 +65,7 @@ haveged
 htop
 jre8-openjdk
 kitty
+latte-dock
 libdvdcss
 libtool
 libre-office
