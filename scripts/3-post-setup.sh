@@ -143,8 +143,8 @@ echo -ne "
 # echo 'Plymouth theme installed'
 # 
 
-git clone https://github.com/HarlowB1022/kde-plasma-backup.git
-sh kde-plasma-backup/kde-plasma-backup.sh restore -f configs/kde-configuration-backup-20220527.tgz
+# git clone https://github.com/HarlowB1022/kde-plasma-backup.git
+sh $HOME/ArchTitus/scripts/kde-plasma-backup.sh restore -f $HOME/ArchTitus/configs/kde-configuration-backup-20220527.tgz
 echo "  set kde themeingt@github.com:HarlowB1022/kde-plasma-backup.git"
 
 
