@@ -68,7 +68,7 @@ kitty
 latte-dock
 libdvdcss
 libtool
-libre-office
+libreoffice-fresh
 lolcat
 lsof
 lutris
