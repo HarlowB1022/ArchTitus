@@ -144,7 +144,7 @@ echo -ne "
 # 
 
 # git clone https://github.com/HarlowB1022/kde-plasma-backup.git
-sh $HOME/ArchTitus/scripts/kde-plasma-backup.sh restore -f $HOME/ArchTitus/configs/kde-configuration-backup-20220527.tgz
+sh $HOME/ArchTitus/scripts/kde-plasma-backup.sh restore -f $HOME/ArchTitus/configs/kde-backup.tgz
 echo "  set kde themeingt@github.com:HarlowB1022/kde-plasma-backup.git"
 
 
